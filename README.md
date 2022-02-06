@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gatesachin1112
-- 👀 I’m interested in Data Science, Database, Software Testing, Development
-- 🌱 I’m currently learning Salesforce 
+- 👀 I’m interested in Data Science, Database, Software Testing, Softwere Development(C++, Java, Python)
+- 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me 7875255254/gatesachin1112@gmail.com
 
